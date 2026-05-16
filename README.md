@@ -539,7 +539,23 @@ Les tests ont permis de valider :
 - la logique conversationnelle
 - la détection des emails sans réponse nécessaire
 
-  
+# Workflow Make
+
+Le blueprint complet du scénario Make est disponible dans le dossier :
+
+```text
+/workflow
+```
+
+Il contient :
+
+- les modules Outlook
+- le module OpenAI
+- le Router
+- les filtres de classification
+- la logique de création des brouillons
+- le routage automatique des emails
+    
 # Auteur
 
 Projet réalisé par Kawtar Maarof.
