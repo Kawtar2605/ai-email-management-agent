@@ -520,6 +520,26 @@ Les prochaines évolutions possibles :
 
 ---
 
+# Tests réalisés
+
+Plusieurs scénarios de tests ont été effectués :
+
+- demandes de rendez-vous
+- leads potentiels
+- newsletters
+- emails ambigus
+- incidents urgents
+- demandes imprécises
+- disponibilités proposées par le client
+
+Les tests ont permis de valider :
+
+- la stabilité des classifications
+- la cohérence des brouillons
+- la logique conversationnelle
+- la détection des emails sans réponse nécessaire
+
+  
 # Auteur
 
 Projet réalisé par Kawtar Maarof.
