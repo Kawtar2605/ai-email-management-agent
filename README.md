@@ -555,7 +555,13 @@ Il contient :
 - les filtres de classification
 - la logique de création des brouillons
 - le routage automatique des emails
-    
+
+# Démonstration vidéo
+
+Vidéo de démonstration complète du workflow :
+
+https://drive.google.com/file/d/12KZ3p-7uhXZtMU96EqVtCxKROsWdGxpc/view?usp=sharing  
+
 # Auteur
 
 Projet réalisé par Kawtar Maarof.
